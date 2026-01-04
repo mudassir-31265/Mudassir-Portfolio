@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mudassir-31265.github.io/Mudassir-Portfolio/sitemap.xml
